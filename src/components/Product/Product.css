@@ -1,0 +1,25 @@
+.overflow{
+    overflow:hidden;
+}
+
+.card{
+    min-height: 450px;
+    position:relative;
+}
+
+.btn-suppr-card{
+    position: absolute;
+    bottom:0;
+    left:0;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.nutriscore-badge{
+    font-size:1.3rem;
+    position:absolute;
+    right:0;
+    top:0;
+    margin-top: -20px;
+    margin-right: -20px;
+}
